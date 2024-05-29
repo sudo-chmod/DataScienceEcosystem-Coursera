@@ -1,6 +1,7 @@
 # DataScienceEcosystem-Coursera
+This repository contains a Jupyter Notebook created as part of a Coursera course assignment. The notebook summarizes various tools and the ecosystem of data science. 
 
-This repository contains a Jupyter Notebook created as part of a Coursera course assignment. The notebook summarizes various tools and the ecosystem of data science. Below are the exercises completed in the notebook:
+**Below are the exercises completed in the notebook:**
 
 ### Exercise 1: Create a Jupyter Notebook
 - Created a new Jupyter notebook called DataScienceEcosystem.ipynb.
